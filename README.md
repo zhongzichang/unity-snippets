@@ -1,4 +1,4 @@
-u3d-snippets
+unity-snippets
 ============
 
-unity code snippets
+common code snippet demos for unity
